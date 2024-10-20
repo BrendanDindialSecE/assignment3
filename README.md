@@ -2,7 +2,7 @@
 # Solar System Quiz Project
 
 ## Overview
-This project is a web-based quiz application designed to test users' knowledge of the solar system. It features a login system for secure access, a series of multiple-choice questions, and a scoring system that provides feedback on performance.
+This project is a web-based quiz application designed to test users' knowledge of the solar system. It features a login system for secure access and a series of multiple-choice questions with feedback after submitting. 
 
 ## Implementation
 
