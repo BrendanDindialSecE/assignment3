@@ -1,4 +1,3 @@
-*Solar System Quiz*
 # Solar System Quiz Project
 
 ## Overview
